@@ -3,9 +3,9 @@
 
 Submitted by: Ariadna Franchino
 
-myStory is an app that introduces Bruce Wayne's bacground, family, and enterprise.
+myStory is an app that introduces Bruce Wayne's background, family, and enterprise (plus his alter ego).
 
-Time spent: 4 hours spent in total
+Time spent: 8 hours spent in total
 
 ## Required Features
 
@@ -13,7 +13,6 @@ The following **required** functionality is completed:
 
 - [x] Users are able to see a customized app icon and launch screen
 - [x] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [x] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
 - [x] Users are able to see at least 3 context items
 - [x] Users are able to tap into each context item and see detail view contains information about each item (title, description, picture if applicable, etc.)
  
@@ -30,22 +29,18 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/2NcVQXRTLMdzX3mnOm/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Giphy Capture and Giphy.com
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The hardest aspect of this project was the auto layout implementation. Finding the right combinations of constraints without objects clipping onto one another or just disappearing completely was extremely challenging.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Ariadna Franchino]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
